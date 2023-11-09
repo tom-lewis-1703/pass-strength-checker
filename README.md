@@ -32,4 +32,4 @@ Replace password_strength_checker.py with the path to the script file if you hav
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
-* [Have I Been Pwned](https://haveibeenpwned.com/)https://haveibeenpwned.com/
+* [Have I Been Pwned](https://haveibeenpwned.com/)
