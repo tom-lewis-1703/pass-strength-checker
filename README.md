@@ -1,1 +1,1 @@
-# pass_strength-checker
+# pass-strength-checker
