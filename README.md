@@ -16,5 +16,20 @@ Before you begin, ensure you have met the following requirements:
 
 You can install the required packages using `pip`:
 
-```bash
+`
 pip install requests
+`
+
+## Running the Application
+To run the Password Strength Checker, use the following command:
+`
+python password_strength_checker.py
+`
+
+Replace password_strength_checker.py with the path to the script file if you have placed it in a different directory.
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Acknowledgments
+* [Have I Been Pwned](https://haveibeenpwned.com/)https://haveibeenpwned.com/
